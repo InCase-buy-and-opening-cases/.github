@@ -23,5 +23,3 @@ _Страница истории:_<br/>
 ![alt_text](https://sun9-38.userapi.com/impg/AMtBo0N1EfC2WE5Jkofq3sbLEVB73YB4TMTdxg/phGkNaKBdEM.jpg?size=764x428&quality=96&sign=acd92e1f90a61f935f1a513c2f8594c7&type=album)<br/>
 _Страница кейса:_<br/>
 ![alt_text](https://sun9-19.userapi.com/impg/6oYInXa5fAs15OEAsGTcpARb9NCJq7Iz9m7eJw/XKJnCAvRnA8.jpg?size=762x431&quality=96&sign=2f86d6c43898b0c58648e474484fee93&type=album)<br/>
-# Прочее<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prn-ic&theme=github_dark)<br/>
